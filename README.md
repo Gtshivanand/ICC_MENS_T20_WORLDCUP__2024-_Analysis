@@ -1,6 +1,12 @@
 # 🏏 ICC Men's T20 World Cup 2024 Analysis 🏆
 
-## 🔍 Overview
+The ICC Men's T20 World Cup 2024 Analysis project provides a comprehensive exploration of the tournament's key statistics, team performances, player insights, and match outcomes. This analysis aims to uncover patterns, trends, and impactful moments throughout the competition, offering data-driven insights into one of the most exciting global cricket events.
+
+<img src ="https://github.com/Gtshivanand/ICC_MENS_T20_WORLDCUP__2024-_Analysis/blob/main/images/icc-men-s-t20-world-cup-logo-2024-free-vector.jpg"/>
+
+<img src="https://github.com/Gtshivanand/ICC_MENS_T20_WORLDCUP__2024-_Analysis/blob/main/images/India-beat-South-Africa-by-7-runs-ICC-T20-World.jpg"/>
+
+## 🔍 Overview:
 
 This project involves analyzing the ICC Men's T20 World Cup 2024 data to uncover various insights and trends. By examining datasets related to the 2024 T20 World Cup, matches, and players, we aim to understand the performance metrics of teams and players and other fascinating aspects of this premier international cricket event.
 
@@ -57,7 +63,7 @@ To run the analysis:
 
 ## 📁 Files in the Repository
 
-- `ICC_T20_World_Cup_2024_Analysis.ipynb`: The Jupyter notebook containing the code for data cleaning, analysis, and visualization.
+- `ICC_MENS_T20_WORLDCUP__2024 _Analysis`: The Jupyter notebook containing the code for data cleaning, analysis, and visualization.
 - **Dataset**:
   - `Batting Most Runs Career.csv`: Dataset with information about the top run-scorers in the 2024 T20 World Cup.
   - `Bowling Most Wickets Career.csv`: Dataset with details of the top wicket-takers in the 2024 T20 World Cup.
@@ -90,23 +96,31 @@ To run the analysis:
 ## 📊 Visualizations
 
  1. **Top 10 Best Batting Averages**: Identified the players with the highest batting averages in the 2024 T20 World Cup.
-    ![image](https://github.com/jicsjitu/ICC_MENS_T20_WORLDCUP__2024/assets/162569175/139e0bae-55dd-43b5-bbf2-fd7e759f474b)
+    ![image](https://github.com/Gtshivanand/ICC_MENS_T20_WORLDCUP__2024-_Analysis/blob/main/visualzations/7_Top%2010%20Best%20Batsman%20according%20to%20the%20their%20Batting%20Averages.png)
 
 2. **Top 10 Best Bowling Averages**: Analyzed the bowlers with the best bowling averages in the 2024 T20 World Cup.
-![image](https://github.com/jicsjitu/ICC_MENS_T20_WORLDCUP__2024/assets/162569175/ac1fcfba-7fbb-44db-8183-da9f90a9b578)
+![image](https://github.com/Gtshivanand/ICC_MENS_T20_WORLDCUP__2024-_Analysis/blob/main/visualzations/21_Top%2010%20Best%20Bowling%20Averages.png)
 
 3. **Top 5 Most Fifties**: Evaluated the players who have scored the most fifties in the 2024 T20 World Cup matches.
-   ![image](https://github.com/jicsjitu/ICC_MENS_T20_WORLDCUP__2024/assets/162569175/f2cb3cda-0187-459a-88f3-67fffa043be1)
+   ![image](https://github.com/Gtshivanand/ICC_MENS_T20_WORLDCUP__2024-_Analysis/blob/main/visualzations/8_Top%205%20Most%20Fifties.png)
 
 4. **Top 10 Most Sixes Player Names**: Listed the players who have hit the most sixes in the 2024 T20 World Cup.
-![image](https://github.com/jicsjitu/ICC_MENS_T20_WORLDCUP__2024/assets/162569175/ec3e7afa-086c-4d75-9f37-5156c1c3f588)
+![image](https://github.com/Gtshivanand/ICC_MENS_T20_WORLDCUP__2024-_Analysis/blob/main/visualzations/9_Top%2010%20Most%20Sixes%20Player%20Names.png)
 
 5. **Top 10 Most Boundaries Player Names**: Analyzed the players with the most boundaries (fours and sixes combined) in the 2024 T20 World Cup.
-6. ![image](https://github.com/jicsjitu/ICC_MENS_T20_WORLDCUP__2024/assets/162569175/8a8b405b-38dc-40c2-8c7f-eced02d7d47a)
+![image](https://github.com/Gtshivanand/ICC_MENS_T20_WORLDCUP__2024-_Analysis/blob/main/visualzations/11_Top%2010%20Most%20Boundaries%20Player%20Names.png)
 
 ## 🔚 Conclusion
 
 This analysis provided insights into various aspects of the 2024 T20 World Cup, from top performers to team dynamics and match outcomes. The visualizations and findings can help cricket enthusiasts, analysts, and researchers understand the dynamics of this global event better.
+
+## 🔍 Future Scope:
+
+Enhance predictive modeling for match outcomes.
+
+Include sentiment analysis of fan reactions and media coverage.
+
+Develop a dynamic dashboard for real-time analysis.
 
 ## 💬 Feedback and Suggestions:
 
@@ -126,4 +140,6 @@ If you found this project helpful or interesting, please consider giving it a �
 Your support helps keep the project active and encourages further development.
 
 Thank you for your support! 💖
+
+
 
