@@ -108,10 +108,22 @@ To run the analysis:
 
 This analysis provided insights into various aspects of the 2024 T20 World Cup, from top performers to team dynamics and match outcomes. The visualizations and findings can help cricket enthusiasts, analysts, and researchers understand the dynamics of this global event better.
 
-## 💬 Feedback and Questions
+## 💬 Feedback and Suggestions:
 
-If you have any feedback or questions about the project, please feel free to ask. We appreciate your input and are here to help. You can reach out by opening an issue on GitHub or by emailing me at [jitukumar9387@gmail.com].
+Thank you for visiting my repository! If you have any questions or feedback, feel free to reach out.
 
-Thank you for exploring the ICC Men's T20 World Cup 2024 Analysis Project! We hope you find it useful and informative.
+I’d love to hear your thoughts, feedback, and suggestions! Feel free to connect with me:
 
-Happy Analyzing!
+ LinkedIn: [Shivanand Nashi](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)
+ 
+ Email: shivanandnashi97@gmail.com
+
+
+Looking forward to connecting and exchanging ideas!
+
+# ✨ Support this project!
+If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub!
+Your support helps keep the project active and encourages further development.
+
+Thank you for your support! 💖
+
